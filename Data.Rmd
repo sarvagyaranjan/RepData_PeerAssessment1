@@ -10,11 +10,14 @@ output:
 
 
 
+
 ## What is mean total number of steps taken per day?
+## [1] 10766.19
 
 
 
 ## What is the average daily activity pattern?
+## [1] 10765
 
 
 
